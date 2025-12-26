@@ -111,37 +111,13 @@ export const appContent: {
       image: 'bandra-date',
     },
     {
-      id: 'amul-park-meet',
-      title: 'Amul Park Meet',
-      date: 'That sunny afternoon',
-      location: 'Our favorite bench',
-      note: 'So simple, but so perfect. Those quiet moments just talking about everything and nothing are the ones I cherish.',
-      image: 'amul-park',
-    },
-    {
-      id: 'mool-parlor-date',
-      title: 'Mool Parlor Date',
-      date: 'When we craved ice cream',
-      location: 'That cozy corner',
-      note: 'Sharing that scoop of ice cream, laughing about silly things... it’s a sweet memory for a reason.',
-      image: 'mool-parlor',
-    },
-    {
       id: 'cafe-cream-date',
       title: 'Cafe Cream Date',
       date: 'Our coffee ritual',
       location: 'Cafe Cream',
       note: 'More than the coffee, I loved the conversation. You always make me feel heard and seen.',
       image: 'cafe-cream',
-    },
-    {
-      id: 'random-walks',
-      title: 'Random Walks & Talks',
-      date: 'Countless evenings',
-      location: 'Everywhere and nowhere',
-      note: 'These are my favorite. No destination, just walking side-by-side. It’s when I feel closest to you.',
-      image: 'random-walks',
-    },
+    }
   ],
   no_pressure: {
     title: 'No Pressure, Just Truth',

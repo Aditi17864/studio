@@ -7,28 +7,10 @@
       "imageHint": "couple sea"
     },
     {
-      "id": "amul-park",
-      "description": "A quiet park bench under a leafy tree on a sunny day.",
-      "imageUrl": "https://images.unsplash.com/photo-1604606672490-5597473d8a69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwYXJrJTIwYmVuY2h8ZW58MHx8fHwxNzY2NzAyNTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "park bench"
-    },
-    {
-      "id": "mool-parlor",
-      "description": "Two people sharing an ice cream sundae in a cozy parlor.",
-      "imageUrl": "https://images.unsplash.com/photo-1629385701021-fcd568a743e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxpY2UlMjBjcmVhbXxlbnwwfHx8fDE3NjY3MzMxNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "ice cream"
-    },
-    {
       "id": "cafe-cream",
       "description": "Two cups of coffee on a table in a warm, inviting cafe.",
       "imageUrl": "https://images.unsplash.com/photo-1534040385115-33dcb3acba5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb2ZmZWUlMjBzaG9wfGVufDB8fHx8MTc2NjczNTkzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "coffee shop"
-    },
-    {
-      "id": "random-walks",
-      "description": "A couple walking hand-in-hand down a quiet, tree-lined street at dusk.",
-      "imageUrl": "https://images.unsplash.com/photo-1572376985751-4bb67485b5fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb3VwbGUlMjB3YWxraW5nfGVufDB8fHx8MTc2Njc3NjUyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "couple walking"
     }
   ]
 }
