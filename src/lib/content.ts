@@ -35,6 +35,7 @@ export const appContent: {
     { id: 'five-years', title: 'Our 5 Years Together', href: '/our-five-years' },
     { id: 'sorry-for', title: 'I’m Sorry, Tush', href: '/im-sorry' },
     { id: 'you-matter', title: 'Why You Matter To Me', href: '/you-matter' },
+    { id: 'where-my-heart-belongs', title: 'Where My Heart Belongs', href: '/where-my-heart-belongs' },
     { id: 'our-memories', title: 'Our Memories', href: '/our-memories' },
     { id: 'fun-games', title: 'Fun & Love Games', href: '/games' },
     { id: 'photo-booth', title: 'Photo Booth', href: '/photo-booth' },

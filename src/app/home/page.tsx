@@ -6,12 +6,13 @@ import {
   CardTitle,
 } from '@/components/ui/card';
 import { appContent } from '@/lib/content';
-import { ArrowRight, Camera, Clapperboard, Gamepad2, Heart, HeartCrack, Hourglass, Moon, Star } from 'lucide-react';
+import { ArrowRight, Camera, Clapperboard, Gamepad2, Heart, HeartCrack, HeartPulse, Hourglass, Moon, Star } from 'lucide-react';
 
 const iconMap: { [key: string]: React.ElementType } = {
   'five-years': Hourglass,
   'sorry-for': HeartCrack,
   'you-matter': Star,
+  'where-my-heart-belongs': HeartPulse,
   'our-memories': Clapperboard,
   'fun-games': Gamepad2,
   'photo-booth': Camera,
