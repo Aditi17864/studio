@@ -24,10 +24,10 @@ export default function RootLayout({
       <body
         className={cn(
           'font-body antialiased relative min-h-screen w-full',
-          'bg-gradient-to-br from-background via-muted to-background'
+          'bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-accent via-background to-[hsl(var(--galaxy-dark))]'
         )}
       >
-        <FloatingParticles count={20} />
+        <FloatingParticles count={30} />
         <main className="relative z-10">{children}</main>
         <Toaster />
       </body>
