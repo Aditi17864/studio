@@ -2,9 +2,9 @@
   "placeholderImages": [
     {
       "id": "bandra-date",
-      "description": "A romantic evening by the sea at a promenade.",
-      "imageUrl": "https://images.unsplash.com/photo-1513279922550-250c2129b13a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb3VwbGUlMjBzdW5zZXR8ZW58MHx8fHwxNzY2NzM4MjQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "couple sunset"
+      "description": "A man sitting in a cafe with holiday decorations.",
+      "imageUrl": "https://images.unsplash.com/photo-1551293220-650e1837f373?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYW4lMjBjYWZlJTIwY2hyaXN0bWFzfGVufDB8fHx8MTc2NjgxMTE3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man cafe"
     },
     {
       "id": "amul-park",

@@ -105,7 +105,7 @@ export const appContent: {
       id: 'bandra-date',
       title: 'Bandra Date',
       date: 'A beautiful evening',
-      location: 'By the sea',
+      location: 'Bandra Dayout',
       note: 'This day mattered to me more than I said out loud. Just being with you, with the sound of the waves, felt like peace.',
       image: 'bandra-date',
     },
