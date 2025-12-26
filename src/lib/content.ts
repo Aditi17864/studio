@@ -59,27 +59,27 @@ export const appContent: {
   timeline: [
     {
       year: 2020,
-      title: 'When We Became Us',
+      title: 'March: Farewell & A Beginning',
       content:
-        'Five years is not small, Tush. It’s habits, comfort, fights, care, and attachment. It started simply, as most things do, but it became a thread that ran through the years that followed.',
+        "Everything felt like it was ending with the farewell, but for us, it was just the start. A new chapter was waiting, even if we didn't know it yet.",
+    },
+    {
+      year: 2020,
+      title: 'April: Officially Us',
+      content:
+        'And then it was official. That step from friends to something more. It was the moment our story truly began, the start of our five years.',
     },
     {
       year: 2021,
-      title: 'The Years That Followed',
+      title: 'Apart, But Still Together',
       content:
-        'We shared moments, conversations, and silences. Even when we were distant, the connection was a quiet hum in the background of my life, a constant presence I took for granted.',
-    },
-    {
-      year: 2023,
-      title: 'What Stayed Constant',
-      content:
-        "Through changes and challenges, the thought of you remained a point of stability. A reminder of a bond that wasn't defined by daily contact, but by a shared history and a mutual, unspoken respect.",
+        "Distance came into our story, but it never broke us. It tested us, for sure, but our bond held strong. We were still 'us,' even from afar.",
     },
     {
       year: 2025,
-      title: 'What You’ve Meant To Me',
+      title: 'Five Years Later: Still Standing',
       content:
-        "You've been a quiet source of warmth and a reminder of a connection that endured. Your presence in my life, even from afar, has been more significant than my words have shown.",
+        "And now, here we are. After everything, after all the time and changes, we're still standing together. Five years is not a small thing, and it means the world to me.",
     },
   ],
   apology_sections: [

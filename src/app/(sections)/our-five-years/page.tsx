@@ -28,6 +28,7 @@ const TimelineItem = ({
 );
 
 export default function OurFiveYearsPage() {
+  const timelineContent = appContent.timeline;
   return (
     <div className="w-full">
       <header className="text-center mb-12">
@@ -36,11 +37,11 @@ export default function OurFiveYearsPage() {
         </h1>
       </header>
       <div className="relative">
-        {appContent.timeline.map((item, index) => (
+        {timelineContent.map((item, index) => (
           <TimelineItem
-            key={item.year}
+            key={index}
             item={item}
-            isLast={index === appContent.timeline.length - 1}
+            isLast={index === timelineContent.length - 1}
           />
         ))}
       </div>
