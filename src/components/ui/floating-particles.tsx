@@ -1,6 +1,6 @@
 'use client';
 
-import { useMemo } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 
 type FloatingParticlesProps = {
   count?: number;
@@ -19,7 +19,16 @@ const HeartIcon = () => (
 
 
 export default function FloatingParticles({ count = 20 }: FloatingParticlesProps) {
+  const [isMounted, setIsMounted] = useState(false);
+
+  useEffect(() => {
+    setIsMounted(true);
+  }, []);
+
   const particles = useMemo(() => {
+    if (!isMounted) {
+      return [];
+    }
     return Array.from({ length: count }).map((_, i) => {
       const size = `${Math.random() * 40 + 20}px`; // Increased size
       const duration = `${Math.random() * 25 + 15}s`;
@@ -40,7 +49,11 @@ export default function FloatingParticles({ count = 20 }: FloatingParticlesProps
         </div>
       );
     });
-  }, [count]);
+  }, [count, isMounted]);
+
+  if (!isMounted) {
+    return null;
+  }
 
   return (
     <div className="absolute inset-0 z-0 overflow-hidden pointer-events-none">
