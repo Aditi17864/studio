@@ -15,7 +15,7 @@ const MemoryCard = ({ memory }: { memory: Memory }) => {
   const image = PlaceHolderImages.find((img) => img.id === memory.image);
 
   return (
-    <Card className="bg-card/60 backdrop-blur-sm border-border/50 overflow-hidden">
+    <Card className="bg-card/60 backdrop-blur-sm border-border/50 overflow-hidden rounded-xl">
       {image && (
         <div className="aspect-video relative">
           <Image
