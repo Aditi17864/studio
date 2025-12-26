@@ -28,7 +28,7 @@ export const appContent: {
   };
 } = {
   home: {
-    header: 'For Tush 🤍',
+    header: 'For Tush',
     body: 'I know I haven’t been the best this week. But my feelings for you never went missing.',
   },
   navigation: [
