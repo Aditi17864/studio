@@ -36,8 +36,8 @@ export default function HomePage() {
             const Icon = iconMap[item.id] || ArrowRight;
             return (
               <Link href={item.href} key={item.id} className="group">
-                <Card className="h-full bg-card/60 backdrop-blur-sm border-border/50 hover:border-primary/50 transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
-                  <CardHeader>
+                <Card className="h-full bg-card/60 backdrop-blur-sm border-border/50 hover:border-primary/50 transition-all duration-300 hover:shadow-lg hover:-translate-y-1 rounded-full">
+                  <CardHeader className="py-6 px-8">
                     <CardTitle className="flex items-center justify-between text-2xl font-headline tracking-wide text-foreground">
                       <div className="flex items-center gap-3">
                         <Icon className="w-6 h-6 text-primary/80" />
