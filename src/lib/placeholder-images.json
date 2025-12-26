@@ -11,6 +11,18 @@
       "description": "Two cups of coffee on a table in a warm, inviting cafe.",
       "imageUrl": "https://images.unsplash.com/photo-1534040385115-33dcb3acba5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb2ZmZWUlMjBzaG9wfGVufDB8fHx8MTc2NjczNTkzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "coffee shop"
+    },
+    {
+      "id": "amul-parlor",
+      "description": "A couple enjoying ice cream cones together.",
+      "imageUrl": "https://images.unsplash.com/photo-1730000855881-2e0f5705539a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb3VwbGUlMjBpY2VjcmVhbXxlbnwwfHx8fDE3NjY3NzcyOTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple icecream"
+    },
+    {
+      "id": "multiple-times",
+      "description": "A collage of happy, candid moments between a couple.",
+      "imageUrl": "https://images.unsplash.com/photo-1638933920122-0746ccb4e229?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb3VwbGUlMjBjb2xsYWdlfGVufDB8fHx8MTc2Njc3NzI5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple collage"
     }
   ]
 }

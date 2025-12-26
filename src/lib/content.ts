@@ -117,6 +117,22 @@ export const appContent: {
       location: 'Cafe Cream',
       note: 'More than the coffee, I loved the conversation. You always make me feel heard and seen.',
       image: 'cafe-cream',
+    },
+    {
+      id: 'amul-parlor',
+      title: 'Amul Parlor Date',
+      date: 'Sweet afternoons',
+      location: 'Amul Parlor',
+      note: 'Our little tradition. Grabbing a cone and just talking for hours. Simple, but always perfect.',
+      image: 'amul-parlor',
+    },
+    {
+      id: 'multiple-times',
+      title: 'Countless Moments',
+      date: 'Always & Forever',
+      location: 'Everywhere',
+      note: "All the little moments that weren't captured on camera but are held in my heart. The random walks, the silly jokes, the comfortable silences.",
+      image: 'multiple-times',
     }
   ],
   no_pressure: {
