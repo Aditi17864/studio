@@ -2,9 +2,9 @@
   "placeholderImages": [
     {
       "id": "bandra-date",
-      "description": "A cozy, romantic cafe setting with warm lighting.",
-      "imageUrl": "https://images.unsplash.com/photo-1559925393-8be0ec476ac6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyb21hbnRpYyUyMGNhZmV8ZW58MHx8fHwxNzE5NDI4ODE4fDA&ixlib=rb-4.0.3&q=80&w=1080",
-      "imageHint": "romantic cafe"
+      "description": "A happy couple posing by the sea on a sunny day.",
+      "imageUrl": "https://images.unsplash.com/photo-1530012573290-6725b7a3364f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb3VwbGUlMjBzZWF8ZW58MHx8fHwxNzE5NDI5MjU4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "couple sea"
     },
     {
       "id": "amul-park",
