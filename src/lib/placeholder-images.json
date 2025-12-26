@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "bandra-date",
+      "description": "A romantic evening by the sea at a promenade.",
+      "imageUrl": "https://picsum.photos/seed/10/600/400",
+      "imageHint": "couple sunset"
+    },
+    {
+      "id": "amul-park",
+      "description": "A quiet park bench under a leafy tree on a sunny day.",
+      "imageUrl": "https://picsum.photos/seed/11/600/400",
+      "imageHint": "park bench"
+    },
+    {
+      "id": "mool-parlor",
+      "description": "Two people sharing an ice cream sundae in a cozy parlor.",
+      "imageUrl": "https://picsum.photos/seed/12/600/400",
+      "imageHint": "ice cream"
+    },
+    {
+      id": "cafe-cream",
+      "description": "Two cups of coffee on a table in a warm, inviting cafe.",
+      "imageUrl": "https://picsum.photos/seed/13/600/400",
+      "imageHint": "coffee shop"
+    },
+    {
+      "id": "random-walks",
+      "description": "A couple walking hand-in-hand down a quiet, tree-lined street at dusk.",
+      "imageUrl": "https://picsum.photos/seed/14/600/400",
+      "imageHint": "couple walking"
+    }
+  ]
 }

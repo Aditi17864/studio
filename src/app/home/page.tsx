@@ -24,7 +24,7 @@ export default function HomePage() {
     <div className="min-h-screen container mx-auto px-4 py-16 sm:py-24 animate-fade-in-up">
       <header className="text-center mb-12">
         <h1 className="font-headline text-5xl md:text-7xl text-foreground flex items-center justify-center">
-          For Tush <Heart className="w-12 h-12 md:w-16 md:h-16 ml-2 text-primary/80 fill-primary/80" />
+          For Tush <Heart className="w-24 h-24 md:w-28 md:h-28 ml-2 text-primary/80 fill-primary/80" />
         </h1>
         <p className="mt-4 text-xl md:text-2xl text-foreground/80 max-w-3xl mx-auto">
           {appContent.home.body}
