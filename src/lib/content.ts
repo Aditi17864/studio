@@ -1,3 +1,4 @@
+
 export type TimelineEntry = {
   year: number;
   title: string;
@@ -86,7 +87,7 @@ export const appContent: {
       id: 'what-im-sorry-for',
       title: "I'm Sorry, Tush",
       content:
-        'This week, I was caught up with college and projects. Not because you weren’t important — but because life demanded too much at once. You gave your time, your energy, your presence… and I couldn’t match it. I’m genuinely sorry.',
+        'This week, I was caught up with college and projects. Not because you weren’t important — but because life demanded too much at once. You gave your time, your energy, your presence… and I couldn’t match it. I’m genuinely sorry. Agli baar, I will try my best ki aisa na ho. Thank you for always understanding me.',
     },
     {
       id: 'what-i-feel-about-you',
