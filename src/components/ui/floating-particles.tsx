@@ -11,7 +11,7 @@ type FloatingParticlesProps = {
 export default function FloatingParticles({ count = 20, className }: FloatingParticlesProps) {
   const particles = useMemo(() => {
     return Array.from({ length: count }).map((_, i) => {
-      const size = `${Math.random() * 3 + 1}px`;
+      const size = `${Math.random() * 7 + 3}px`;
       const duration = `${Math.random() * 20 + 10}s`;
       const delay = `${Math.random() * -30}s`;
       const left = `${Math.random() * 100}%`;
