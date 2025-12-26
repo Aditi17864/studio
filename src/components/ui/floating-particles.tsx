@@ -18,7 +18,7 @@ export default function FloatingParticles({ count = 20, className }: FloatingPar
       return (
         <div
           key={i}
-          className={cn('absolute top-full rounded-full bg-accent/50', className)}
+          className={cn('absolute top-full rounded-full bg-primary/50', className)}
           style={{
             width: size,
             height: size,

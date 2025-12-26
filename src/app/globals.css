@@ -16,8 +16,8 @@
     --secondary-foreground: 40 6% 25%;
     --muted: 0 69% 93%;
     --muted-foreground: 40 6% 45%;
-    --accent: 300 26% 80%;
-    --accent-foreground: 40 6% 25%;
+    --accent: 350 78% 65%;
+    --accent-foreground: 0 0% 98%;
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 98%;
     --border: 0 69% 88%;
@@ -27,7 +27,7 @@
   }
  
   .dark {
-    --background: 240 6% 18%;
+    --background: 240 6% 10%;
     --foreground: 0 0% 98%;
     --card: 240 6% 12%;
     --card-foreground: 0 0% 98%;
@@ -39,7 +39,7 @@
     --secondary-foreground: 0 0% 98%;
     --muted: 240 6% 22%;
     --muted-foreground: 0 0% 63.9%;
-    --accent: 300 26% 80%;
+    --accent: 350 78% 65%;
     --accent-foreground: 0 0% 98%;
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 0 0% 98%;
@@ -58,7 +58,6 @@
   }
 }
 
-/* Floating Particles Animation */
 @keyframes float {
   0% {
     transform: translateY(0px);

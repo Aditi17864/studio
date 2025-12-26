@@ -28,22 +28,23 @@ export const appContent: {
   };
 } = {
   home: {
-    header: 'Hi Tushar.',
-    body: 'I’ve known you for five years now. And that matters to me more than I ever said.',
+    header: 'For Tush 🤍',
+    body: 'I know I haven’t been the best this week. But my feelings for you never went missing.',
   },
   navigation: [
-    { id: 'five-years', title: 'Our Five Years', href: '/our-five-years' },
-    { id: 'went-wrong', title: 'Where I Went Wrong', href: '/where-i-went-wrong' },
-    { id: 'feel-about-you', title: 'What I Feel About You', href: '/what-i-feel-about-you' },
-    { id: 'sorry-for', title: 'What I’m Sorry For', href: '/what-im-sorry-for' },
-    { id: 'no-pressure', title: 'No Pressure, Just Truth', href: '/no-pressure' },
-    { id: 'soft-promise', title: 'One Soft Promise', href: '/one-soft-promise' },
+    { id: 'five-years', title: 'Our 5 Years Together', href: '/our-five-years' },
+    { id: 'sorry-for', title: 'I’m Sorry, Tush', href: '/im-sorry' },
+    { id: 'you-matter', title: 'Why You Matter To Me', href: '/you-matter' },
+    { id: 'our-memories', title: 'Our Memories', href: '/our-memories' },
+    { id: 'fun-games', title: 'Fun & Love Games', href: '/games' },
+    { id: 'photo-booth', title: 'Photo Booth', href: '/photo-booth' },
+    { id: 'last-thing', title: 'One Last Thing', href: '/one-last-thing' },
   ],
   timeline: [
     {
       year: 2020,
-      title: 'When You Entered My Life',
-      content: 'Five years is a long time to know someone. Long enough for habits, comfort, and quiet attachment to grow. It started simply, as most things do, but it became a thread that ran through the years that followed.',
+      title: 'When We Became Us',
+      content: 'Five years is not small, Tush. It’s habits, comfort, fights, care, and attachment. It started simply, as most things do, but it became a thread that ran through the years that followed.',
     },
     {
       year: 2021,
@@ -62,20 +63,15 @@ export const appContent: {
     },
   ],
   apology_sections: [
-    {
-      id: 'where-i-went-wrong',
-      title: 'Where I Went Wrong',
-      content: 'I wasn’t replying with the warmth you deserved. I let things feel distant instead of explaining myself. And I understand how that created a gap between us. It was a failure of care on my part, a failure to nurture something I valued.',
+     {
+      id: 'im-sorry',
+      title: 'I\'m Sorry, Tush',
+      content: 'This week, I was caught up with college and projects. Not because you weren’t important — but because life demanded too much at once. You gave your time, your energy, your presence… and I couldn’t match it. I’m genuinely sorry.',
     },
     {
-      id: 'what-i-feel-about-you',
-      title: 'What I Feel About You',
+      id: 'you-matter',
+      title: 'Why You Matter To Me',
       content: 'Even after all this time, I still care. I still think of you with softness. And I still respect the place you’ve had in my life. These feelings are quiet, but they are steady and true.',
-    },
-    {
-      id: 'what-im-sorry-for',
-      title: 'What I’m Sorry For',
-      content: 'I’m sorry for the silence where there should have been reassurance. I’m sorry for replies that didn’t reflect how much you mattered. I am sorry for not protecting the connection we had.',
     },
   ],
   no_pressure: {
@@ -83,7 +79,7 @@ export const appContent: {
     content: 'This app isn’t asking for anything. Not forgiveness. Not a reply. Just understanding. It\'s a message I needed to send for my own heart, to honor what we shared.',
   },
   final_promise: {
-    title: 'One Soft Promise',
-    text: 'If we ever talk again, I’ll do it with more care. If we don’t, I’ll still be grateful for the five years.',
+    title: 'One Last Thing',
+    text: 'I know I failed to show up properly this week. But please know — you matter to me more than you think. Thank you for choosing me, even when I was busy.',
   },
 };

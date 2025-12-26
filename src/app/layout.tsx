@@ -5,8 +5,8 @@ import { Toaster } from '@/components/ui/toaster';
 import FloatingParticles from '@/components/ui/floating-particles';
 
 export const metadata: Metadata = {
-  title: 'Five Years of Us',
-  description: 'A romantic apology.',
+  title: 'For Tush',
+  description: 'A special message.',
 };
 
 export default function RootLayout({
