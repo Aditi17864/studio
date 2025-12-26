@@ -10,12 +10,12 @@ const TimelineItem = ({
 }) => (
   <div className="flex items-start">
     <div className="flex flex-col items-center mr-6">
-      <div className="flex items-center justify-center w-10 h-10 rounded-full bg-background border-2 border-primary/50 text-primary font-bold text-sm">
-        {item.year.toString().slice(-2)}
+      <div className="flex items-center justify-center w-16 h-16 rounded-full bg-background border-2 border-primary/50 text-primary font-bold text-lg">
+        {item.year}
       </div>
       {!isLast && <div className="w-px h-full min-h-[10rem] bg-primary/20" />}
     </div>
-    <div className="flex-1 pb-12">
+    <div className="flex-1 pb-12 pt-2">
       <h2 className="font-headline text-3xl text-foreground mb-2">{item.title}</h2>
       <p className="text-lg text-foreground/70 leading-relaxed">
         {item.content}
